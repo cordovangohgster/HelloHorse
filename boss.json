@@ -1,0 +1,13 @@
+{
+	"name": "BossExperts",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "Source",
+	"projects": [
+		"Source/BossExperts.dproj"
+	],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.0.2"
+	}
+}
